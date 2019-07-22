@@ -83,3 +83,7 @@ ConnectionStrings.config
 
 *.dll
 *.pdb
+obj
+Debug
+bin
+packages
